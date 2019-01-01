@@ -118,7 +118,8 @@ class GameScene: SKScene {
             addChild(scoreLabel)
             
             let voice = SKAction.playSoundFileNamed("GameOverVoice.m4a", waitForCompletion: false)
-            run(voice)
+            let dadaAwu = SKAction.playSoundFileNamed("dadawu.m4a", waitForCompletion: false)
+            run(SKAction.sequence([dadaAwu , voice]))
             
             return
         }

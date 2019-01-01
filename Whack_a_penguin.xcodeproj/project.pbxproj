@@ -11,6 +11,7 @@
 		1B242CC921DB02420005367B /* smoke.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1B242CC721DB02420005367B /* smoke.sks */; };
 		1B242CCA21DB02420005367B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B242CC821DB02420005367B /* Assets.xcassets */; };
 		1B242CD221DB05250005367B /* mud.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1B242CD121DB05250005367B /* mud.sks */; };
+		1B242CD421DB0BED0005367B /* dadawu.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 1B242CD321DB0BED0005367B /* dadawu.m4a */; };
 		1B50F2FE21DB9F5F00BE8150 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B50F2FD21DB9F5F00BE8150 /* AppDelegate.swift */; };
 		1B50F30021DB9F5F00BE8150 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1B50F2FF21DB9F5F00BE8150 /* GameScene.sks */; };
 		1B50F30421DB9F5F00BE8150 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B50F30321DB9F5F00BE8150 /* GameScene.swift */; };
@@ -34,6 +35,7 @@
 		1B242CC721DB02420005367B /* smoke.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = smoke.sks; sourceTree = "<group>"; };
 		1B242CC821DB02420005367B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../Assets.xcassets; sourceTree = "<group>"; };
 		1B242CD121DB05250005367B /* mud.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = mud.sks; sourceTree = "<group>"; };
+		1B242CD321DB0BED0005367B /* dadawu.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = dadawu.m4a; sourceTree = "<group>"; };
 		1B50F2FA21DB9F5F00BE8150 /* Whack_a_penguin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Whack_a_penguin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B50F2FD21DB9F5F00BE8150 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1B50F2FF21DB9F5F00BE8150 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				1B50F31621DBA05F00BE8150 /* whackBad.caf */,
 				1B50F31721DBA05F00BE8150 /* whack.caf */,
 				1B242CC321DAFF300005367B /* GameOverVoice.m4a */,
+				1B242CD321DB0BED0005367B /* dadawu.m4a */,
 				1B50F31821DBA05F00BE8150 /* gameOver@2x.png */,
 				1B50F31921DBA05F00BE8150 /* penguinEvil@2x.png */,
 				1B50F31A21DBA05F00BE8150 /* whackHole@2x.png */,
@@ -182,6 +185,7 @@
 				1B242CCA21DB02420005367B /* Assets.xcassets in Resources */,
 				1B50F30B21DB9F6100BE8150 /* Assets.xcassets in Resources */,
 				1B50F32521DBA05F00BE8150 /* whackBackground@2x.png in Resources */,
+				1B242CD421DB0BED0005367B /* dadawu.m4a in Resources */,
 				1B242CD221DB05250005367B /* mud.sks in Resources */,
 				1B50F32221DBA05F00BE8150 /* whackHole@2x.png in Resources */,
 				1B50F30E21DB9F6100BE8150 /* LaunchScreen.storyboard in Resources */,
